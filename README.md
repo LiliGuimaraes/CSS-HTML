@@ -1,2 +1,2 @@
 # CSS-Saturday-Funday
-exercise css
+exercise css - re-creating wordpress blogs templates
