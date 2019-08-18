@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    vertical-align: 0;
+    border: 0;
+}
+
+html,
+body {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+div {
+    display: block
+}
+
+label {
+    cursor: default
+}
+
+header,
+section,
+footer,
+menu {
+    display: block;
+}
+
+.w3-border {
+    border: 1px solid #ccc !important;
+}
+
+.w3-input {
+    padding: 8px;
+    display: block;
+    width: 100%;
+}
+
+button,
+input {
+    overflow: visible;
+}
+
+button,
+input,
+select,
+textarea {
+    font: inherit;
+    margin: 0px;
+    text-transform: none;
+}
+
+.w3-text-pint,
+.w3-hover-text-pink:hover {
+    color: #e91e63 !important;
+}
+
+.w3-content {
+    padding: 0.01em 16px;
+}
+
+.w3-block {
+    display: block;
+    width: 100%;
+}
+
+.w3-section,
+.w3-code {
+    margin-top: 16px !important;
+    margin-bottom: 16px !important;
+}
+
+.w3-left,
+.w3-half {
+    float: left !important;
+}
+
+.w3-rigth {
+    float: right !important;
+}
+
+.w3-xlarge {
+    font-size: 24px !important;
+}
+
+;
+.w3-padding-24 {
+    padding-top: 24px !important;
+    padding-bottom: 24px !important;
+}
+
+.w3-white,
+.w3-hover-white:hover {
+    color: #000 !important;
+    background-color: #fff !important;
+}
+
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+    -webkit-appearance: button;
+}
+
+.w3-button,
+.w3-btn {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.w3-container:after,
+.w3-container:before,
+.w3-panel:after,
+.w3-panel:before,
+.w3-row:after,
+.w3-row:before,
+.w3-row-padding:after,
+.w3-row-padding:before,
+.w3-cell-row:before,
+.w3-cell-row:after,
+.w3-clear:after,
+.w3-clear:before,
+.w3-bar:before,
+.w3-bar:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.w3-row img {
+    margin-bottom: -8px;
+}
+
+.img {
+    vertical-align: middle;
+    border-style: none
+}
+
+.w3-light-grey .w3-hover-light-grey:hover .w3-light-gray,
+.w3-hover-light-gray:hover {
+    color: #000 !important;
+    background-color: #f1f1f1 !important;
+}
+
+.w3-dark-grey,
+.w3-hover-dark-grey:hover,
+.w3-dark-gray,
+.w3-hover-dark-gray:hover .w3-padding-64 {
+    padding-top: 64px !important;
+    padding-bottom: 64x !important;
+}
+
+.w3-center {
+    text-align: center !important;
+}
